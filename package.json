@@ -1,0 +1,17 @@
+{
+  "name": "NominationDAO",
+  "version": "0.1.0",
+  "description": "Moonbeam staking precompile contract",
+  "main": "index.js",
+  "repository": "git@github.com:Akagi201/NominationDAO.git",
+  "author": "Akagi201 <akagi201@gmail.com>",
+  "license": "Apache",
+  "private": false,
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.3"
+  },
+  "devDependencies": {
+    "prettier": "2.4.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.19"
+  }
+}
